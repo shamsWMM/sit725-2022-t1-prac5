@@ -4,7 +4,7 @@ Week 5 Practical on MVC
 IMPORTANT!!!!!!!!!!!
 
 Please create a .env file in order to view added Koala 2,3,4 cards!!!
-in the .env file write the following two lines:
+Define the following variables in the .env file:
 
-MONGO_USER=admin
-MONGO_PASSWORD=admin
+MONGO_USER=
+MONGO_PASSWORD=
